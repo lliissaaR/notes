@@ -2,17 +2,6 @@
 
 ## Git 
 
-Ceci est une commande :
-``` bash
-mkdir test
-````
-
-
-Ceci est du code : 
-
-```javascript
-const test = 'Hello wolrd' ;
-````
 
 La commande :
 ````
@@ -97,3 +86,52 @@ cat filesname
 ````
 
 copier la clé et la coller dans github
+
+
+
+
+
+
+# récap
+
+Créer un nouveau dépôt :
+
+&nbsp;
+
+
+aller sur github sur lliissaaR
+
+Faire new en haut a droite en vert et créer le truc
+
+&nbsp;
+
+
+Sur le terminal : 
+
+&nbsp;
+
+Git init
+
+Git add .
+
+Git commit -m « commentaire »
+
+Git status
+
+Git remote add origin « adresse ssh ou html »
+
+Git branch -M main
+
+Git push - u origin main
+
+
+&nbsp;
+
+
+a CHAQUE fois qu'on veut ajouter une modif 
+
+git add
+
+git commit
+
+git push
