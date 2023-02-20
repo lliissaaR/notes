@@ -84,3 +84,16 @@ git add . : mettre à jour ce qui doit etre commit
 &nbsp;
 
 Le dépot Git ou repository est le dossier qui contient les données que l'on souhaite versionner
+
+ssh : échange de clés publiques, protocole de chiffrement et de transport
+
+pour configurer une clé ssh 
+
+
+afficher le contenue d'un fichier 
+
+````
+cat filesname
+````
+
+copier la clé et la coller dans github
