@@ -135,3 +135,9 @@ git add
 git commit
 
 git push
+
+
+
+Pour supprimer un fichier du dépot : 
+
+git rm --cached .DS_Store
